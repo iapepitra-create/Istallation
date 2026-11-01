@@ -1,0 +1,16 @@
+Pepitra — logiciel propriétaire
+Copyright (c) 2026 Pepitra. Tous droits réservés.
+
+Ce dépôt ne contient pas le code source de Pepitra : il sert uniquement à distribuer le logiciel compilé
+(fichiers d'installation publiés dans « Releases »).
+
+L'utilisation du logiciel est gratuite pendant la bêta, pour un usage personnel. Sans accord écrit préalable de
+l'éditeur, il est interdit de copier, modifier, décompiler (dans les limites prévues par la loi), redistribuer,
+louer ou revendre tout ou partie du logiciel, ou de l'utiliser pour créer un produit concurrent.
+
+Le logiciel est fourni « en l'état », sans garantie d'aucune sorte. Les conditions d'utilisation complètes sont
+présentées dans le logiciel (Conditions d'utilisation).
+
+Composants tiers inclus, sous leur propre licence : Electron (MIT), Next.js (MIT), React (MIT), FFmpeg (GPL ;
+binaire fourni par le paquet ffmpeg-static), yt-dlp (Unlicense), polices Google Fonts (SIL OFL), emoji Microsoft
+Fluent (MIT). Contact : ia.pepitra@gmail.com
