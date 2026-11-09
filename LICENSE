@@ -11,6 +11,7 @@ louer ou revendre tout ou partie du logiciel, ou de l'utiliser pour créer un pr
 Le logiciel est fourni « en l'état », sans garantie d'aucune sorte. Les conditions d'utilisation complètes sont
 présentées dans le logiciel (Conditions d'utilisation).
 
-Composants tiers inclus, sous leur propre licence : Electron (MIT), Next.js (MIT), React (MIT), FFmpeg (GPL ;
-binaire fourni par le paquet ffmpeg-static), yt-dlp (Unlicense), polices Google Fonts (SIL OFL), emoji Microsoft
-Fluent (MIT). Contact : ia.pepitra@gmail.com
+Composants tiers inclus, sous leur propre licence : Electron (MIT), Next.js (MIT), React (MIT), FFmpeg 6.1.1
+(GPL-3.0-or-later ; programme séparé, code source : https://ffmpeg.org/releases/ffmpeg-6.1.1.tar.xz, ou sur demande),
+yt-dlp (Unlicense), polices (SIL OFL), emoji Microsoft Fluent (MIT), emoji Google Noto (CC BY 4.0). La liste
+complète est livrée avec le logiciel (LICENCES-TIERS.txt). Contact : ia.pepitra@gmail.com
